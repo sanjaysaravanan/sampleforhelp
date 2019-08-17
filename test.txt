@@ -1,1 +1,2 @@
 Hi this the new text file added for branching exercise
+This is the bug fix  for this project and  also for testing and analysing the features of git
